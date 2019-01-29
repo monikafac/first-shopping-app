@@ -1,0 +1,28 @@
+.app{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+} 
+
+
+.app div img{
+    width: 20vw;
+    height: 20vw;
+    
+}
+
+.app button{
+    margin: 5px;
+    width: 220px;
+    height: 40px;
+    padding: 10px;
+   font-size: 18px;
+   border-radius: 5px;
+   padding-bottom: 30px;
+}
+
+.app h1{
+    font-size: 20px;
+}
